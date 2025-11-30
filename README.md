@@ -54,19 +54,10 @@ Three models were selected to satisfy the project requirements and to demonstrat
 ---
 
 ## Project Structure
-notebooks/
-├── experiments/
-│ └── All exploratory and alternative model experiments
-│
-├── final/
-│ ├── 01_mlp_classifier.ipynb
-│ ├── 02_bilstm_scratch_pytorch.ipynb
-│ ├── 03_bert.ipynb
-│ └── README.md
 
-- `experiments/` contains all experimentation notebooks.
-- `final/` contains only the three selected models used for evaluation and reporting.
-- `inference/` contains inference code for the deployed model.
+- `notebooks/experiments/` contains all experimentation notebooks.
+- `notebooks/final/` contains only the three selected models used for evaluation and reporting.
+
 
 ---
 
