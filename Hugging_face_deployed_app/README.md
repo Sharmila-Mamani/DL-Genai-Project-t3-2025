@@ -83,11 +83,10 @@ How to Use
 </ul>
 
 <hr/>
-
+<img width="1893" height="608" alt="image" src="https://github.com/user-attachments/assets/c02ce6e3-a821-484d-bc67-741760032ab2" />
 <p style="font-size:14px;">
 <strong>Status:</strong> Live & Stable<br/>
 <strong>Purpose:</strong> Academic Project Demonstration
 </p>
-
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
